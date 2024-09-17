@@ -8,3 +8,7 @@ cpu OctalCore Intel Core i7-10875H, 4600 MHz (46 x 100)
 触摸板键盘 PS/2 标准
 
 两个版本应该都有些小问题，但是不影响使用，网络都是正常的
+
+
+
+至于解锁cfg lock我没搞，涉及到BIOS，GitHub上一些跟我同机型的他们写的更完善

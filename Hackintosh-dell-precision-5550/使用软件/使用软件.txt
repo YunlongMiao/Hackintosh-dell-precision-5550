@@ -1,4 +1,4 @@
 OCAuxiliaryTools-master ：修改config.plist
-RapidEFI-v3.1.0-Windows：一键生成efi，一般可以直接进系统，不会卡代码。
+RapidEFI-v3.1.0-Windows：一键生成efi，一般可以直接进系统，不会卡代码。	文件超过100M，git无法上传，已删除。这个软件在GitHub上
 
 建议成功进系统前那些可选可不选的都不选，成功进系统后，再进行修改
