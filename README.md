@@ -16,3 +16,10 @@ cpu OctalCore Intel Core i7-10875H, 4600 MHz (46 x 100)
 
 
 补充：Sonoma14.6.1系统3.5mm耳机孔存在电流声
+
+
+
+BIOS设置，我只修改了这两个设置
+
+- Secure Boot: Off (Default: On)
+- SATA Mode: AHCI (Default: RAID)   (使用RAID模式时，macOS将看不到任何驱动器)
